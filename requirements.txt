@@ -1,0 +1,3 @@
+include README.rst
+include data_handling/json_mapping/category_1/*.json
+include data_handling/json_mapping/category_2/*.json
